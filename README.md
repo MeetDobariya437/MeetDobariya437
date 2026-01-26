@@ -139,6 +139,10 @@ const meet = {
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
 <br>MongoDB
 </td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain" />
+<br>LangChain
+</td>
 </tr>
 </table>
 
